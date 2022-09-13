@@ -36,9 +36,16 @@ nav ul li a{
     font-size: 15px;
     color: #000;
     font-weight: bold;
+    padding: 7px 10px;
+    border-radius: 5px;
+    transition: .2s;
+
 }
 
 nav ul li a:hover{
     color: lightcoral;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 16px;
     transition: .2s;
 }
