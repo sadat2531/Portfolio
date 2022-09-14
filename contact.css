@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    background: #eeeefc;
     font-family: sans-serif;
 }
 
@@ -8,7 +9,6 @@
     position: relative;
     width: 100%;
     height: 100vh;
-    background: #dddcee;
 }
 
 nav{
