@@ -48,3 +48,48 @@ nav ul li a:hover{
     font-size: 16px;
     transition: .2s;
 }
+
+.projects{
+    max-width: 95%;
+    padding: 10% 15%;
+}
+
+.projects h1{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.projects div{
+    height: auto;
+    width: 550px;
+    margin-bottom: 15px;
+}
+
+.projects div h4 a{
+    font-size: 25px;
+    text-decoration: none;
+    color: #000;
+    padding: 5px 15px;
+    display: inline-block;
+    border-radius: 5px;
+    transition: .3s;
+}
+
+.projects div h4 a:hover{
+    transform: scale(1.1);
+    transition: .3s;
+}
+
+.projects .period{
+    font-size: 15px;
+    color: #f9004d;
+    margin-left: 4%;
+    margin-bottom: 5px;
+    font-style: italic;
+}
+
+.projects ul{
+    font-size: 15px;
+    margin-left: 10%;
+    
+}
